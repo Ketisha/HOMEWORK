@@ -1,0 +1,32 @@
+body {
+    font-family: Montserrat;
+    text-align: center;
+}
+
+li {
+    padding-left: 30px;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+.active {
+    color: red;
+}
+
+.container {
+    display: inline-block;
+    padding-top: 45px;
+}
+
+.card {
+    width: 18rem;
+    display: inline-block;
+}
+
